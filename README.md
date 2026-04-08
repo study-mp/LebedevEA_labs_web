@@ -8,6 +8,7 @@
 | 2 | Чат SignalR (SignalRChat) | `Lab2_SignalRChat` | 8.0 |
 | 3 | Введение в MVC (MvcMovie) | `Lab3_4_5_6_MvcMovie` | 8.0 |
 | 4 | EF Core + LocalDB (MvcMovie) | `Lab3_4_5_6_MvcMovie` | 8.0 |
+| 5 | Поиск и фильтр по жанру (MvcMovie) | `Lab3_4_5_6_MvcMovie` | 8.0 |
 
 ## Структура
 
