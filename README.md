@@ -7,6 +7,7 @@
 | 1 | Web API (TodoApi) | `Lab1_TodoApi` | 8.0 |
 | 2 | Чат SignalR (SignalRChat) | `Lab2_SignalRChat` | 8.0 |
 | 3 | Введение в MVC (MvcMovie) | `Lab3_4_5_6_MvcMovie` | 8.0 |
+| 4 | EF Core + LocalDB (MvcMovie) | `Lab3_4_5_6_MvcMovie` | 8.0 |
 
 ## Структура
 
