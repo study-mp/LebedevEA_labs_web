@@ -5,6 +5,7 @@
 | Номер | Тема | Папка | .NET | 
 |---|------|-------|------|
 | 1 | Web API (TodoApi) | `Lab1_TodoApi` | 8.0 |
+| 2 | Чат SignalR (SignalRChat) | `Lab2_SignalRChat` | 8.0 |
 
 ## Структура
 
