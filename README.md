@@ -11,6 +11,7 @@
 | 5 | Поиск и фильтр по жанру (MvcMovie) | `Lab3_4_5_6_MvcMovie` | 8.0 |
 | 6 | Валидация, Details и Delete (MvcMovie) | `Lab3_4_5_6_MvcMovie` | 8.0 |
 | 7 | Razor Pages + EF Core (ContosoUniversity) | `Lab7_ContosoUniversity` | 8.0 |
+| 8 | MVC + EF Core, наследование TPH (ContosoUniversity) | `Lab8_ContosoUniversityMVC` | 8.0 |
 
 ## Структура
 
